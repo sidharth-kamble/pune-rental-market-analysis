@@ -1,0 +1,10 @@
+Raw rows: 6,090
+Duplicates removed: 90
+Missing values before treatment:
+furnishing            240
+floor                 360
+property_age_years    480
+bathrooms             180
+Impossible rent/area rows removed: 15
+Statistical outliers removed (IQR rule per BHK): 56
+Clean rows saved: 5,929 -> data/processed/pune_rental_clean.csv
